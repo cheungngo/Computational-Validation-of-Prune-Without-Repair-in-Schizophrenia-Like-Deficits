@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Cheung"
+    given-names: "N."
+title: "Permanent Synaptic Loss Renders Plasticity Enhancement Ineffective: Computational Validation of Prune-Without-Repair in Schizophrenia-Like Deficits"
+version: 1.0.0  # Replace with your actual release tag (e.g., v1.0) if available
+doi: 10.5281/zenodo.18259655
+date-released: 2026-01-18  # Use the actual release/upload date; format YYYY-MM-DD
+repository-code: "https://github.com/cheungngo/Computational-Validation-of-Prune-Without-Repair-in-Schizophrenia-Like-Deficits"
+keywords:
+  - synaptic-pruning
+  - schizophrenia
+  - computational-neuroscience
+  - plasticity
+  - prune-without-repair
+  - neural-networks
+  - developmental-deficits
+  - synaptic-loss
+license: "CC-BY-4.0"  # Recommended for papers/manuscripts; change to MIT/Apache-2.0 if primarily code-focused
+type: software  # Or "article" if emphasizing the manuscript; "software" fits most computational repos
